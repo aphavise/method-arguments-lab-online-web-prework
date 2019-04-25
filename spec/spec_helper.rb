@@ -1,4 +1,4 @@
-require_relative "introduction.rb"
+require_relative "../lib/introduction.rb"
 
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate
